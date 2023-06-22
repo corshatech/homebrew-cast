@@ -1,10 +1,10 @@
-# Arcticlight Cast
+# CAST
 
 ## How do I install these formulae?
 
-`brew install arcticlight/cast/<formula>`
+`brew install corshatech/cast/cast`
 
-Or `brew tap arcticlight/cast` and then `brew install <formula>`.
+Or `brew tap corshatech/cast` and then `brew install cast`.
 
 ## Documentation
 
